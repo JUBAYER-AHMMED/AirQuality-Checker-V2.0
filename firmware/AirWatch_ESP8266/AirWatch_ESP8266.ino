@@ -59,7 +59,7 @@ const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 
 // Your backend base URL (no trailing slash), e.g. from Render.
 // Must include /api at the end.
-const char* API_BASE = "https://your-backend-url.onrender.com/api";
+const char* API_BASE = "https://airquality-checker-v2-0.onrender.com/api";
 
 // How often to ask the backend what to do (ms).
 const unsigned long CONFIG_INTERVAL = 4000;

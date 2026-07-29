@@ -5,7 +5,7 @@ import axios from "axios";
 //   VITE_API_BASE=https://your-backend.onrender.com/api
 const API_BASE =
   import.meta.env.VITE_API_BASE ||
-  "https://air-quality-checker-i3ey.onrender.com/api";
+  "https://airquality-checker-v2-0.onrender.com/api";
 
 export const DataContext = createContext({
   API_BASE,
